@@ -1,0 +1,22 @@
+body{
+background-color: black;
+}
+h3{color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 200%;
+
+}
+h4{
+color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 150%;
+}
+.alinear{
+    width: 30%;
+    height: 25%;
+    margin: 2mm;
+    position: relative;
+}
+
